@@ -12,7 +12,7 @@ questions = [
   Question(questions_prompts[0], "d"),
   Question(questions_prompts[1], "a"),
   Question(questions_prompts[2], "b"),
-  Question(questions_prompts[3], "C"),
+  Question(questions_prompts[3], "c"),
   Question(questions_prompts[4], "a"),
 ]
 
